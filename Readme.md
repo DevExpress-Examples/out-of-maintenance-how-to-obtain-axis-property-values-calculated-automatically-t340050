@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* **[MainWindow.xaml](./CS/ValuesOfAutomaticDateTimeScale/MainWindow.xaml) (VB: [MainWindow.xaml](./VB/ValuesOfAutomaticDateTimeScale/MainWindow.xaml))**
+* [MainWindow.xaml.cs](./CS/ValuesOfAutomaticDateTimeScale/MainWindow.xaml.cs) (VB: [MainWindow.xaml](./VB/ValuesOfAutomaticDateTimeScale/MainWindow.xaml))
+<!-- default file list end -->
 # How to obtain axis property values calculated automatically
 
 
